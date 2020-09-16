@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Real-time-location-tracker-React-JS/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Real-time-location-tracker-React-JS/static/js/main.473cddcd.chunk.js",
+    "main.js.map": "/Real-time-location-tracker-React-JS/static/js/main.473cddcd.chunk.js.map",
+    "runtime-main.js": "/Real-time-location-tracker-React-JS/static/js/runtime-main.7f97df19.js",
+    "runtime-main.js.map": "/Real-time-location-tracker-React-JS/static/js/runtime-main.7f97df19.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Real-time-location-tracker-React-JS/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.20a48a51.chunk.js": "/Real-time-location-tracker-React-JS/static/js/2.20a48a51.chunk.js",
+    "static/js/2.20a48a51.chunk.js.map": "/Real-time-location-tracker-React-JS/static/js/2.20a48a51.chunk.js.map",
+    "index.html": "/Real-time-location-tracker-React-JS/index.html",
+    "precache-manifest.a224b008b843e8ef5f608120d5177904.js": "/Real-time-location-tracker-React-JS/precache-manifest.a224b008b843e8ef5f608120d5177904.js",
+    "service-worker.js": "/Real-time-location-tracker-React-JS/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Real-time-location-tracker-React-JS/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Real-time-location-tracker-React-JS/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.20a48a51.chunk.js.LICENSE.txt": "/Real-time-location-tracker-React-JS/static/js/2.20a48a51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f97df19.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.20a48a51.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.473cddcd.chunk.js"
+  ]
+}
